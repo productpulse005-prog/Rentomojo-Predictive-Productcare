@@ -1,0 +1,6 @@
+{
+  "name": "Rentomojo Care",
+  "description": "Predictive asset health and maintenance management platform for rental appliances and furniture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
